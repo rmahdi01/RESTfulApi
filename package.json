@@ -1,0 +1,14 @@
+{
+  "name": "restfulapi",
+  "version": "1.0.0",
+  "description": "RESTfulApi in expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rasulzoda Muhammadmahdi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
